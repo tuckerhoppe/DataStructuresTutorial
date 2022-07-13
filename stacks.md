@@ -33,19 +33,21 @@ This program will help the user see what the last thing they were doing was, and
 ## disadvantages
 If data items need to be used sooner rather than later it might not be a great data structure. For example a grocery store system might not benefit form a stack. Every time a shipment of milk was brought in it would be the first shippment used and put on the shelves. The very first shippment would most likely get very old.
 ## Practice
-Stacks can be useful for undo functions, notes apps, strings, and internet browsers. 
+Stacks can be useful for undo functions, notes apps, strings, and internet browsers. Write a program that allows the user to write a message and undo words from the message as it goes. Here is the starting code:
 
 ```python
+# Starting Code
 
-letters = []
+# Create a stack
+
+
 letter = "o"
 print("enter (undo) to remove the last thing entered from the stack")
+print("enter x to exit and print you stack")
+
 while letter != "x"
   letter = input()
-  if letter = "undo":
-    print("Last thing entered was: ", letters.pop())
-  else:
-    letters.append()
+  # Add Your code here
     
 print(letters)
 
