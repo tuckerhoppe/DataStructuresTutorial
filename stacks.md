@@ -3,6 +3,28 @@
 ## overview
 A stack is a Last in First out data structure. (LIFO: Last in - First Out)When you take a piece of data from the stack it was the last in. Imagine a pile of papers. The last piece of paper you put onto the stack will be the first one you pick up, because it is on top.
 
+## Common Operations
+All of these operations are 0(1). This means all of these operations are incredibly efficient
+Adding a value to the stack. This operation adds it to the top of the stack.
+```python
+stack1.append(value)
+```
+
+Removing a value from the stack. This removes a value from the top of the stack.
+```python
+stack1.pop()
+```
+
+Find the size of the stack.
+```python
+length = len(stack1)
+```
+
+Finding if a stack is empty
+```python
+if len(stack1) == 0:
+  return True
+```
 ## advantages
 A stack can help you keep track of order of when items were put in the data. Imagine a program to help someone stay productive by helping keep track of what they were doing.
 
