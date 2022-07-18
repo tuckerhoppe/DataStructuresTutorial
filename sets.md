@@ -73,5 +73,5 @@ for i in range(items_shipped):
 
 
 ```
-
+[Solution](https://github.com/tuckerhoppe/DataStructuresTutorial/blob/main/sets_solution.py)
 
