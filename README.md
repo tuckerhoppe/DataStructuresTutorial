@@ -10,4 +10,4 @@ The purpose of this tutorial is to introduce three important and widely used dat
 [Sets Tutorial](https://github.com/tuckerhoppe/DataStructuresTutorial/blob/main/sets.md)
 
 ## Tree
-[Tree Tutorial]
+[Tree Tutorial](https://github.com/tuckerhoppe/DataStructuresTutorial/blob/main/trees.md)
