@@ -75,4 +75,4 @@ print(letters)
 
   
 ```
-
+[Stacks Solution](https://github.com/tuckerhoppe/DataStructuresTutorial/blob/main/stacks_solution.py)
