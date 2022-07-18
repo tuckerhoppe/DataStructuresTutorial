@@ -7,7 +7,7 @@ The purpose of this tutorial is to introduce three important and widely used dat
 [Stacks Tutorial](https://github.com/tuckerhoppe/DataStructuresTutorial/blob/main/stacks.md)
 
 ## Sets
-[Sets Tutorial]
+[Sets Tutorial](https://github.com/tuckerhoppe/DataStructuresTutorial/blob/main/sets.md)
 
 ## Tree
 [Tree Tutorial]
