@@ -67,5 +67,23 @@ A tree is a Hierarchy of storing data. This means all of the data will have a Re
 # disadvantages
 Small changes can cause large change in structure. Kind of unstable. You also have to write it by hand in python.
 
-# examples
-family tree. Things where you want to store a relationship in data
+# Practice Problem
+A company is having difficulties tracking who is doing what work and for what departments. When a poject is brought up by the ceo it is hard to track the department it was under and the Team that worked on it. See if what you have learned about binary search trees can help the company.(You can use a diagram or a python program)
+CEO: Matt Jenkins
+Departments:Marketing, HR, product design, product development
+Team Leads: Tim(Marketing), Jill(HR), Michael(Product design), Mark(Product development), Toby(HR)
+other Employees:
+John: works in marketing. designed the "Sleek" Commercial
+Harry: Works in marketing.
+Joyce: works in product design. She lead on the new tire project
+Tucker: Product development. Wrote the code for the new self driving car
+
+```python
+#STARTING CODE
+from graphviz import Source
+```
+
+[Solution Code Link]
+
+
+
