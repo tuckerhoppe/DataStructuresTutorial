@@ -83,7 +83,7 @@ Tucker: Product development. Wrote the code for the new self driving car
 from graphviz import Source
 ```
 
-[Solution Code Link]
+[Solution Code Link(https://github.com/tuckerhoppe/DataStructuresTutorial/blob/main/Treesolution.py)]
 
 
 
